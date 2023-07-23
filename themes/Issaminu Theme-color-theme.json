@@ -41,7 +41,6 @@
     "sideBarSectionHeader.background": "#101315",
     "sideBarSectionHeader.foreground": "#E0E0E0",
     "badge.foreground": "#E0E0E0",
-    "list.activeSelectionBackground": "#F4457D55",
     "list.activeSelectionForeground": "#E0E0E0",
     "list.focusBackground": "#3A434D",
     "list.hoverBackground": "#1d2226",
@@ -63,6 +62,7 @@
     "statusBar.noFolderBackground": "#101315",
     "scrollbar.shadow": "#101315",
     "button.background": "#9fced11f",
+
     "button.foreground": "#E0E0E0",
     "dropdown.background": "#101315",
     "dropdown.border": "#101315",
@@ -70,7 +70,6 @@
     "extensionButton.prominentBackground": "#F4457D",
     "extensionButton.prominentForeground": "#E0E0E0",
     "extensionButton.prominentHoverBackground": "#EE808B",
-    "focusBorder": "#F4457D",
     "foreground": "#E0E0E0",
     "input.background": "#101315",
     "input.border": "#45505b",
