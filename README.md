@@ -1,10 +1,17 @@
-# Issaminu Theme
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/Issaminu/issaminu-theme/main/icon.png" style="border-radius: 100px" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	Issaminu Theme for <a href="https://marketplace.visualstudio.com/items?itemName=RaillyHugo.one-hunter">VSCode</a>
+</h3>
 
-![demo 1](/demos/demo1.png)
+<p align="center">
+A variant of <a href="https://marketplace.visualstudio.com/items?itemName=RaillyHugo.one-hunter">One Hunter Theme</a> with some changes and additions of my own.
+  <br>
+</p>
 
-![demo 2](/demos/demo2.png)
+![demo 1](https://raw.githubusercontent.com/Issaminu/issaminu-theme/main/demos/demo1.png)
 
-A variant of [One Hunter Theme](https://marketplace.visualstudio.com/items?itemName=RaillyHugo.one-hunter) that adds in some changes of my own and some from [Eva Dark Theme](https://marketplace.visualstudio.com/items?itemName=fisheva.eva-theme).
+![demo 2](https://raw.githubusercontent.com/Issaminu/issaminu-theme/main/demos/demo2.png)
 
 ## Issues
 
