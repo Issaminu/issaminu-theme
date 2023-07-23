@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/Issaminu/issaminu-theme/main/icon.png" style="border-radius: 100px" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/Issaminu/issaminu-theme/main/icon.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Issaminu Theme for <a href="https://marketplace.visualstudio.com/items?itemName=RaillyHugo.one-hunter">VSCode</a>
 </h3>
