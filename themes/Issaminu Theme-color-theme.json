@@ -99,7 +99,7 @@
 
   "tokenColors": [
     {
-      "name": "number,unit,数字 | 单位 | constant,非数字的常量 | enum枚举里的元素,Infinity | id,symbol in C# | HTML行间的id和CSS里的id名 | C#中预处理器指令创建符号常量 | URL,math | ",
+      "name": "number,unit,constant, | enum,Infinity | id,symbol in C# | HTML | C# | URL,math | ",
       "scope": "constant.numeric,entity.other.keyframe-offset.percentage.css,keyword.other.unit,support.constant.dom,support.constant.property.math,support.constant.ext,support.constant.core,entity.name.function.preprocessor.c,constant.other.js,meta.at-rule.keyframes.scss entity.other.attribute-name.scss,constant,variable.other.enummember,constant.other.enum,entity.name.variable.enum-member,constant.language.infinity,text.log constant.language,meta.attribute.id.html entity.other.attribute-name.html,entity.other.attribute-name.id,entity.name.variable.preprocessor.symbol,variable.other.constant.object,",
       "settings": {
         "fontStyle": "",
@@ -107,7 +107,6 @@
       }
     },
     {
-      "name": "正则字符串里的符号 | ",
       "scope": "constant.other.character-class.regexp,constant.other.character-class.range.regexp,constant.other.character-class.set.regexp,support.constant,support.constant.math,support.constant.json,entity.other.attribute-name.id.css punctuation.definition.entity.css,",
       "settings": {
         "fontStyle": "",
@@ -198,7 +197,6 @@
         "foreground": "#E4BF7F"
       }
     },
-    // #E4BF7F normal
     {
       "name": "regexp ^ ?: $ + | ",
       "scope": "keyword.operator.negetion.regexp,keyword.control.anchor.regexp,punctuation.definition.group.capture.regexp,keyword.operator.quantifier.regexp,punctuation.definition.bold.markdown,",
@@ -388,7 +386,6 @@
         "foreground": "#5BD1B9"
       }
     },
-    //#56B7C3 normal (In Italic : #56B7C3 Italic)
     {
       "name": "Attributes | pseudo-class;css里的伪类 hover等 和 伪类选择器 如nth-child() | Classes | ",
       "scope": "entity.other.attribute-name,invalid.deprecated.entity.other.attribute-name,entity.name.tag.custom.css,entity.name.tag.custom.scss,storage.type.java,entity.other.attribute-name.pseudo-class.css,support.type.property-name.media.css,support.constant.media.css,source.css.less entity.name.tag.custom.css,keyword.operator.gradient.css,entity.name.type,keyword.operator.expression,entity.other.inherited-class,entity.name.type.class,entity.name.scope-resolution,support.class,entity.name.type.interface,",
@@ -547,12 +544,6 @@
       "scope": "markup.inserted.git_gutter",
       "settings": {}
     },
-    // {
-    //   "scope": "source.cpp meta.function.definition.cpp meta.body.function.definition.cpp",
-    //   "settings": {
-    //     "foreground": "#3f7169"
-    //   }
-    // },
     {
       "scope": "markup.changed.git_gutter",
       "settings": {
@@ -627,7 +618,7 @@
     {
       "scope": ["support.class.component.tsx", "support.class.component.jsx"],
       "settings": {
-        "foreground": "#ce5d66" //THIS IS WHERE COMPONENT COLOR IN JSX/TSX IS SET
+        "foreground": "#ce5d66"
       }
     },
     {

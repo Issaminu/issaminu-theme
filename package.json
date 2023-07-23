@@ -1,7 +1,7 @@
 {
   "name": "issaminu-theme",
   "displayName": "Issaminu Theme",
-  "description": "A botched mix between One Hunter Theme and Eva Dark",
+  "description": "A variant of One Hunter Theme with some additions.",
   "version": "1.0.0",
   "publisher": "Issaminu",
   "engines": {
