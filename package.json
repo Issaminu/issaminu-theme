@@ -1,0 +1,36 @@
+{
+  "name": "issaminu-theme",
+  "displayName": "Issaminu Theme",
+  "description": "A botched mix between One Hunter Theme and Eva Dark",
+  "version": "1.0.0",
+  "publisher": "Issaminu",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "issaminu"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Issaminu Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Issaminu Theme-color-theme.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
+  }
+}
