@@ -17,7 +17,7 @@
     "editorGutter.background": "#191d21",
     "editorGutter.deletedBackground": "#E61F44",
     "editorGutter.modifiedBackground": "#F9C35A",
-    "editorIndentGuide.background": "#191d2188",
+    "editorIndentGuide.background1": "#191d2188",
     "editorInlayHint.background": "#34393E",
     "editorInlayHint.foreground": "#E0E0E0",
     "editorLineNumber.foreground": "#45505b",
@@ -185,7 +185,7 @@
       "scope": "entity.name.tag,entity.other.attribute-name.parent-selector.css punctuation.definition.entity.css,punctuation.definition.heading.markdown,support.function.general.tex punctuation.definition.function.tex,support.function.section.latex punctuation.definition.function.latex,punctuation.support.type.property-name.begin.json.comments,punctuation.support.type.property-name.end.json.comments,support.class.component,keyword.operator.optional,punctuation.section.embedded.begin.php,punctuation.section.embedded.end.php,punctuation.section.embedded.end.php source.php,string.regexp keyword.other,",
       "settings": {
         "fontStyle": "",
-        "foreground": "#840f19"
+        "foreground": "#E06C75"
       }
     },
     {
@@ -426,8 +426,7 @@
     {
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#E34234",
-        "background": "#664E4D"
+        "foreground": "#E34234"
       }
     },
     {
